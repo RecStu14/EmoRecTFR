@@ -17,6 +17,12 @@ The images obtained from the getting_processed_imgs.m have a title and legend in
 4. Run crop_imgs.py --> uses moving_cropped_imgs.py and helper_functions.py
 
 ## Model Training
+The ResNet50 model was trained on the dataset where the hyperparameters are as follows:
 
+1. Adam Optimiser
+2. Learning Rate = 0.001 (Default)
+3. Batch Size = Numerous Batch Sizes were tried (16, 64, 128)
+4. Epochs = 500
 
 ## Evaluation
+The all_models_results.ipynb contains the consolidated code where all the 15 models are evaluated and their metrics (Loss and Accuracy) are observed.
