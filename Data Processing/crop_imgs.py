@@ -5,7 +5,12 @@ import cv2
 import os
 import moving_cropped_imgs as MVCI
 
-#ROOT_PARTICIPANT = "/Users/sankeerthana/Documents/NTU/YEAR_3/NTU_URECA/Datasets/try2_test/subject_independent_sst/s15/"
+#-------------------------------------- NEED TO CHANGE THE PARTICIPANT ID ACCORDINGLY -------------------------------
+ROOT_PARTICIPANT = "/Users/sankeerthana/Documents/NTU/YEAR_3/NTU_URECA/Datasets/try2_test/subject_dependent_sst/s15/"
+#--------------------------------------------------------------------------------------------------------------------
+
+# This can be automated using a for loop however, doing so significantly increases the duration for the code to run
+
 #SPLIT = split
 
 def generate_cropped_imgs(ROOT_PARTICIPANT):
