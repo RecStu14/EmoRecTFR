@@ -1,4 +1,4 @@
-%PROCESSING DATA
+%SEPARATING DATA
 
 %Since the datasets (0_neutral, 1_sad etc.) are read as struct arrays in
 %MATLAB which contain the data of different trials in fields. We would need
