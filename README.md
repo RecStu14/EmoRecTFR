@@ -14,4 +14,4 @@ After running these 3 files, the directory of each emotion should be similar to 
 
 The images obtained from the getting_processed_imgs.m have a title and legend in them. This might affect the learning process of the ResNet50, as a result of which the images need to be cropped. 
 
-4. Run crop_imgs.py --> uses moving_cropped_imgs.py and helper_fxns.py
+4. Run crop_imgs.py --> uses moving_cropped_imgs.py and helper_functions.py
