@@ -7,11 +7,11 @@ The Data that I used was already grouped according to Emotions.
 2. Run separating_data_into_fields.m
 3. Run getting_processed_imgs.m
 
-After running these 3 files, the directory of each emotion should be similar to the following:
-0_neutral
-  ├── Session_1
-  │   ├── s1
-  │   │   ├── cz_eeg21_1.mat
+After running these 3 files, the directory of each emotion should be similar to the following:  
+0_neutral  
+  ├── Session_1  
+  │   ├── s1. 
+  │   │   ├── cz_eeg21_1.mat
   │   │   ├── cz_eeg23_1.mat
   │   │   ├── cz_eeg4_1.mat
   │   │   ├── cz_eeg6_1.mat
