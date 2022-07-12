@@ -16,4 +16,7 @@ The images obtained from the getting_processed_imgs.m have a title and legend in
 
 4. Run crop_imgs.py --> uses moving_cropped_imgs.py and helper_functions.py
 
-## Model Training, Evaluation and Inference
+## Model Training
+
+
+## Evaluation
