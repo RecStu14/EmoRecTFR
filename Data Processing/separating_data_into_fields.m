@@ -2,7 +2,7 @@
 
 %Since the datasets (0_neutral, 1_sad etc.) are read as struct arrays in
 %MATLAB which contain the data of different trials in fields. We would need
-%to extract the fields out.
+%to extract the fields out and store them as separate matfiles.
 
 %Parent Directory
 PARENT_DIR = '/Users/sankeerthana/Documents/NTU/YEAR_3/NTU_URECA/Datasets/github_try/';
