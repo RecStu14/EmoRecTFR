@@ -1,7 +1,7 @@
 #!/usr/bin/env python
 # coding: utf-8
 
-# In[28]:
+#RESNET50 MODEL TRAINING
 
 #from sysconfig import get_python_version
 #tensorflow_version=2.3
